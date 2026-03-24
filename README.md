@@ -12,3 +12,12 @@ Histórias de Usuário
 	•	US09 - Como Agente, quero atribuir um contrato a um pedido aprovado para formalizar o aluguel.
 	•	US10 - Como Agente, quero registrar automóveis (matrícula, ano, marca, modelo, placa) para gerenciar frota.
 	•	US11 - Como Agente, quero modificar e avaliar pedidos já existentes.
+
+## Diagrama de Casos de Uso
+[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Casos%20de%20Uso.png)
+
+## Diagrama de Classes
+[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Classes.png)
+
+##Diagrama de Pacotes
+[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Pacotes.pn)
