@@ -24,6 +24,7 @@ Histórias de Usuário
 	US11 - Como Agente, quero modificar e avaliar pedidos já existentes.
 
 ## Diagrama de Casos de Uso
+
 [Ver Diagrama](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Casos%20de%20Uso.png)
 
 ## Diagrama de Classes
