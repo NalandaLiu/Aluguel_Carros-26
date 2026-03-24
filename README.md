@@ -14,10 +14,10 @@ Histórias de Usuário
 	•	US11 - Como Agente, quero modificar e avaliar pedidos já existentes.
 
 ## Diagrama de Casos de Uso
-[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Casos%20de%20Uso.png)
+[Ver Diagrama](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Casos%20de%20Uso.png)
 
 ## Diagrama de Classes
-[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Classes.png)
+[Ver Diagrama](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Classes.png)
 
 ##Diagrama de Pacotes
-[Nalanda - Portifolio-26](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Pacotes.pn)
+[Ver Diagrama](https://github.com/NalandaLiu/Aluguel_Carros-26/blob/main/Diagrama%20de%20Pacotes.pn)
